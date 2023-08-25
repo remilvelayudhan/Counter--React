@@ -1,1 +1,1 @@
-https://remilvelayudhan.github.io/Counter--React/
+https://remilvelayudhan.github.io/counter-react/
