@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Counter--React/static/css/main.d0055bbb.css",
-    "main.js": "/Counter--React/static/js/main.c61d96a3.js",
-    "static/js/787.4faf3867.chunk.js": "/Counter--React/static/js/787.4faf3867.chunk.js",
-    "index.html": "/Counter--React/index.html",
-    "main.d0055bbb.css.map": "/Counter--React/static/css/main.d0055bbb.css.map",
-    "main.c61d96a3.js.map": "/Counter--React/static/js/main.c61d96a3.js.map",
-    "787.4faf3867.chunk.js.map": "/Counter--React/static/js/787.4faf3867.chunk.js.map"
+    "main.css": "/counter-react/static/css/main.d0055bbb.css",
+    "main.js": "/counter-react/static/js/main.08df023f.js",
+    "static/js/787.4faf3867.chunk.js": "/counter-react/static/js/787.4faf3867.chunk.js",
+    "index.html": "/counter-react/index.html",
+    "main.d0055bbb.css.map": "/counter-react/static/css/main.d0055bbb.css.map",
+    "main.08df023f.js.map": "/counter-react/static/js/main.08df023f.js.map",
+    "787.4faf3867.chunk.js.map": "/counter-react/static/js/787.4faf3867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0055bbb.css",
-    "static/js/main.c61d96a3.js"
+    "static/js/main.08df023f.js"
   ]
 }
